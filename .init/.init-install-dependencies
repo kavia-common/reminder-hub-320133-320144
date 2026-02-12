@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/reminder-hub-320133-320144/reminders_frontend"
+}
